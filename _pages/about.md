@@ -33,7 +33,6 @@ Publications
 ======
 * **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv)
   * **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
-  * [Code](https://github.com/Vicent0205/SynLogic)
 * **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv)
   * **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
   * [Code](https://github.com/Vicent0205/Vision4Chart)
